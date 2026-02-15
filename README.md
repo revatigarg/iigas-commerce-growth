@@ -1,127 +1,133 @@
-# IIGAS PDP Optimization Case Study  
-## SEO, Growth & UX Improvement in a B2B Product Detail Page
+# IIGAS Commerce Growth Case Study  
+## B2B eCommerce Architecture & Site-Level Optimization
 
-**Live Page:**  
-https://iigas.com/acetone-pump/
+**Live Site:**  
+https://iigas.com/
 
 ---
 
 ## Objective
 
-Transform a generic informational page into a high-intent product detail page optimized for search visibility, structured evaluation, and B2B inquiry conversion.
+Improve the overall B2B eCommerce structure of the IIGAS website by strengthening:
 
-This project focused on aligning search intent, improving UX clarity, and strengthening internal linking for scalable growth.
+- Navigation architecture  
+- Product discovery  
+- Inquiry-based conversion  
+- SEO structure  
+- Information hierarchy  
 
----
-
-## Before State
-
-The original page:
-
-- Contained generic informational content  
-- Did not clearly define the product  
-- Had no structured specifications  
-- Had no FAQ section  
-- Lacked schema optimization  
-- Was not properly categorized within the site structure  
-
-This limited discoverability, clarity, and conversion potential.
+The transformation began with the Acetone Pump product page and expanded into broader site-level improvements.
 
 ---
 
-## Key Improvements
+## Site-Level Improvements
 
-### 1. Search Intent Realignment
+### 1. Global Request Quote Conversion Strategy
 
-Replaced broad informational content with product-focused positioning aligned to high-intent search queries.
+Introduced and emphasized a clear "Request Quote" pathway across the site.
 
-Result:
-Improved semantic clarity and stronger alignment with buyer intent.
+Rationale:
 
----
+- B2B industrial commerce is inquiry-driven  
+- Buyers require evaluation before pricing  
+- Clear CTAs reduce friction and ambiguity  
 
-### 2. Structured Specification Block
+Impact:
 
-Added a clearly formatted technical specification section to support evaluation behavior.
-
-UX Impact:
-- Reduced cognitive load  
-- Improved scannability  
-- Increased technical credibility  
+- Stronger conversion intent signaling  
+- More structured buyer journey  
+- Improved transition from evaluation to sales engagement  
 
 ---
 
-### 3. FAQ Section for Long-Tail SEO
+### 2. Mega Navigation Redesign
 
-Introduced structured FAQs targeting common buyer questions.
+Reorganized the global navigation into structured commerce categories:
 
-Growth Impact:
-- Expanded long-tail keyword coverage  
-- Improved search richness eligibility  
-- Reduced repetitive pre-sales friction  
+- Gas Plants  
+- Industrial Gases  
+- Plant Equipment  
+- Spares & Accessories  
+- Featured Products  
 
----
+Why This Matters:
 
-### 4. Internal Linking & Discovery
+- Strengthens site hierarchy  
+- Improves crawl distribution  
+- Supports keyword clustering  
+- Reduces cognitive load  
+- Enables scalable catalog growth  
 
-Added a Related Products module to:
-
-- Improve crawl depth  
-- Strengthen topical authority  
-- Encourage cross-navigation  
-- Support solution-based evaluation  
-
-This shifted the page from isolated content to part of a structured product ecosystem.
+Navigation was treated as commerce infrastructure, not just UI.
 
 ---
 
-### 5. Conversion UX Optimization
+## Phase 1 Execution: Acetone Pump PDP
 
-Separated technical validation from action steps:
+The first product page optimized under this new structure was the Acetone Pump.
 
-- Ungated brochure download  
-- Request Quote CTA  
+### Before
 
-Designed for high-consideration B2B purchasing cycles rather than direct checkout.
+- Generic informational content  
+- No structured specifications  
+- No FAQ section  
+- Weak search alignment  
+- No clear evaluation flow  
 
----
+### After
 
-## Structural Gap Identified
+- Structured specification block  
+- FAQ section targeting buyer questions  
+- Improved semantic clarity  
+- Related products module  
+- Clear separation between evaluation and Request Quote  
 
-The product currently lacks a dedicated category page and depends primarily on top navigation for discovery.
-
-This limits:
-
-- Keyword clustering opportunities  
-- Semantic hierarchy  
-- Scalable internal linking  
-
----
-
-## Next Growth Improvements
-
-1. Create a dedicated category page to support keyword clustering and stronger site architecture  
-2. Build structured taxonomy for related products  
-3. Expand schema implementation strategy  
-4. Track performance through impressions, clicks, and inquiry submissions  
+This page served as a pilot for site-wide product architecture improvements.
 
 ---
 
-## Product Thinking Applied
+## Growth & SEO Infrastructure
 
-- Align content structure to search intent before scaling traffic  
-- Design for scannability and technical validation  
-- Reduce friction in high-consideration buying journeys  
-- Treat SEO structure as product architecture  
-- Strengthen internal linking as a growth lever  
+Improvements focused on scalable structure:
+
+- Intent-aligned content positioning  
+- Internal linking expansion  
+- Related product discovery  
+- Structured FAQ layer  
+- Navigation-based keyword grouping  
+
+The goal was to move from isolated content pages to a connected commerce ecosystem.
+
+---
+
+## Structural Gaps Identified
+
+- Lack of dedicated category pages for certain product clusters  
+- Opportunity for stronger taxonomy modeling  
+- Need for expanded schema strategy  
+
+These insights inform the next iteration of site architecture.
+
+---
+
+## B2B eCommerce Lens
+
+This project reflects core B2B commerce principles:
+
+- Inquiry-based conversion over direct checkout  
+- Technical validation before sales engagement  
+- Multi-product evaluation support  
+- Navigation as growth infrastructure  
+- SEO treated as product architecture  
 
 ---
 
 ## My Role
 
-- Identified structural and SEO gaps  
-- Repositioned the page around buyer intent  
-- Designed content hierarchy and specification formatting  
-- Implemented FAQ-based SEO expansion  
-- Introduced discovery improvements through internal linking  
-- Structured evaluation-to-conversion flow  
+- Identified structural and conversion gaps  
+- Introduced global inquiry-based CTA strategy  
+- Redesigned navigation architecture  
+- Repositioned product pages around buyer intent  
+- Implemented structured content hierarchy  
+- Improved internal linking and discovery  
+- Defined next-phase category strategy  
